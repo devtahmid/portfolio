@@ -514,6 +514,7 @@ img{
 
 /*==================== QUALIFICATION ====================*/
 .qualification__tabs{
+    margin-top: var(--mb-1);
     display: flex;
     justify-content: space-evenly;
     margin-bottom: var(--mb-2);
